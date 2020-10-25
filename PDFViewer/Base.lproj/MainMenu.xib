@@ -79,9 +79,9 @@
                         </items>
                     </menu>
                 </menuItem>
-                <menuItem title="Navi." id="VcR-Hl-6Vq">
+                <menuItem title="Navigation" id="VcR-Hl-6Vq">
                     <modifierMask key="keyEquivalentModifierMask"/>
-                    <menu key="submenu" title="Navi." id="QG1-uo-G2E">
+                    <menu key="submenu" title="Navigation" id="QG1-uo-G2E">
                         <items>
                             <menuItem title="Prev." keyEquivalent="" id="ore-gl-2uD">
                                 <modifierMask key="keyEquivalentModifierMask"/>
